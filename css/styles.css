@@ -140,9 +140,9 @@ body div section#cookies1{
 body#wed{
   background-color: #5663e8;
   background-image: url("../images/try.jpg");
-  background-repeat: no-repeat;
+  background-repeat: repeat-x;
   background-attachment: fixed;
-  background-position: center;
+  background-size: contain;
 }
 
 body div section#wed{
