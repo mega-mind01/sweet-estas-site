@@ -83,14 +83,6 @@ img{
   border-radius: 10px;
 }
 
-body#cat{
-  background-color: #ebe1e3;
-  background-image: url("../images/try2.jpg");
-  background-repeat: repeat-x;
-  background-attachment: fixed;
-  background-position: center;
-}
-
 body div section#cat{
   background-image: url("../images/catering1.jpg");
   width: 100%;
@@ -126,23 +118,11 @@ body div section#cuky{
   background-repeat: no-repeat;
 }
 
-body#cok{
-  background-color: #facad4;
-}
-
 body div section#test{
   display: flex;
 }
 body div section#cookies1{
   display: flex;
-}
-
-body#wed{
-  background-color: #5663e8;
-  background-image: url("../images/try.jpg");
-  background-repeat: repeat-x;
-  background-attachment: fixed;
-  background-size: contain;
 }
 
 body div section#wed{
